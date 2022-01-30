@@ -1,4 +1,4 @@
-## Utils Bash Scripts
+## Useful Bash Scripts
 
 In this repo I am going to put some bash scripts that I use in my daily life, and which I think are very useful.
 
