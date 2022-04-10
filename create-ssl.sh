@@ -1,0 +1,1 @@
+certbot certonly –manual -d $1 –agree-tos –manual-public-ip-logging-ok –preferred-challenges dns-01 –register-unsafely-without-email –rsa-key-size 4096

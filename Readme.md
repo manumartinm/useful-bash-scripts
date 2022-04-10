@@ -10,3 +10,4 @@ Useful links:
 
 - [DevOps Bash Scripts](https://github.com/HariSekhon/DevOps-Bash-tools)
 - [Bash Scripting for SEO](https://www.searchenginejournal.com/command-line-seo-guide/)
+- [Verify GoogleBot IPs](https://github.com/NachoSEO/verify-googlebots)

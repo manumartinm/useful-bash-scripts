@@ -1,6 +1,3 @@
-username=yourusername
-email=youremail
-
 sudo apt-get install git
-git config --global user.name $username
-git config --global user.email $email
+git config --global user.name $1
+git config --global user.email $2
